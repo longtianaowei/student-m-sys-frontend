@@ -1,24 +1,22 @@
-# student-m-sys
+# 学生成绩管理系统前端界面
 
-## Project setup
+## 运行教程
+
+1、安装依赖文件
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+2、启动，本地运行查看效果
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+项目打包命令，打包完成会生成一个dist文件夹，可部署到服务器
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
